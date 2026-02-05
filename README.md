@@ -1,2 +1,2 @@
 # desafios
-Desafios em python
+Estudo de desenvolvimento em python.
