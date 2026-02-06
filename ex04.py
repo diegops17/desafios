@@ -1,0 +1,7 @@
+texto = input('Digite algo: ')
+print(f'TIPO: {type(texto)}')
+print(f'TAMANHO: {len(texto)}')
+print(f'É ALFA: {texto.isalpha()}')
+print(f'É ALFA NÚMERICO: {texto.isalnum()}')
+print(f'É DECIMAL: {texto.isdecimal()}')
+print(f'É NÚMERICO: {texto.isnumeric()}')
