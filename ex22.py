@@ -1,0 +1,10 @@
+nome = str(input('Informe o seu nome completo: ')).strip()
+maiusculo = nome.upper()
+minusculo = nome.lower()
+total_letras = len(nome.replace(" ", ""))
+tamanho_primeiro_nome = nome.split()
+
+print(maiusculo)
+print(minusculo)
+print(total_letras)
+print(len(tamanho_primeiro_nome[0]))
